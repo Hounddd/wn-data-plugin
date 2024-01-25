@@ -1,0 +1,22 @@
+{
+    "name": "hounddd/wn-data-plugin",
+    "type": "winter-plugin",
+    "description": "Display data data in your WinterCMS website",
+    "homepage": "https://gitlab.com/hounddd/wn-plugins/wn-data-plugin",
+    "keywords": ["winter cms", "winter", "plugin", "data", "dto", "data transfer objects"],
+    "authors": [
+        {
+            "name": "Hounddd - Damien MATHIEU",
+            "email": "damien@hounddd.fr",
+            "role": "Original Author"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2",
+        "composer/installers": "~1.0",
+        "spatie/laravel-data": "^1.0"
+    },
+    "extra": {
+        "installer-name": "data"
+    }
+}
