@@ -14,7 +14,7 @@
     "require": {
         "php": "^8.0.2",
         "composer/installers": "~1.0",
-        "spatie/laravel-data": "^1.0"
+        "spatie/laravel-data": "^3.0"
     },
     "extra": {
         "installer-name": "data"
