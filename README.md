@@ -36,9 +36,8 @@ But with this package, you can initialize the data object also with an array:
 SongData::from(['title' => 'Never gonna give you up', 'artist' => 'Rick Astley']);
 ```
 
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width:32px; height:32px; float:left; margin-right:4px; "><path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" /></svg>
-Follow the official plugin repository: https://github.com/spatie/laravel-data/tree/v1  
-See official documentation: https://spatie.be/docs/laravel-data/
+ℹFollow the official plugin repository: https://github.com/spatie/laravel-data/tree/v1  
+ℹSee official documentation: https://spatie.be/docs/laravel-data/
 
 
 ## Installation
@@ -58,7 +57,8 @@ cd plugins
 mkdir hounddd && cd hounddd
 git clone https://github.com/Hounddd/wn-data-plugin data
 ```
-Do not use the publish command. This plugin handles this the way it should be done in WinterCMS, which is why it was created in the first place.  
+
+⚠ Do not use the publish command. This plugin handles this the way it should be done in WinterCMS, which is why it was created in the first place.  
 See: https://wintercms.com/docs/v1.2/docs/architecture/using-composer#using-laravel-packages
 
 
