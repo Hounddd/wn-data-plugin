@@ -4,7 +4,7 @@ namespace Hounddd\Data\Tests\Feature;
 
 use Carbon\Carbon;
 use Carbon\CarbonImmutable;
-use Hounddd\Data\Tests\Fakes\SimpleData;
+use Hounddd\Data\Tests\Classes\SimpleData;
 use Spatie\LaravelData\Data;
 use System\Tests\Bootstrap\PluginTestCase;
 use Spatie\LaravelData\Attributes\MapInputName;

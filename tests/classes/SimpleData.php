@@ -1,6 +1,6 @@
 <?php
 
-namespace Hounddd\Data\Tests\Fakes;
+namespace Hounddd\Data\Tests\Classes;
 
 use Spatie\LaravelData\Data;
 
