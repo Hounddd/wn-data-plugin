@@ -6,7 +6,12 @@
 
 This package enables the creation of rich data objects which can be used in various ways. Using this package you only need to describe your data once.
 
-**V1: for PHP 8.0+**
+## Compatibility
+
+| PHP  | Data plugin v2 |  Data plugin v1 | 
+|------|----------------|----------------|
+| 8.1+ | ✅ | best to use v2 |
+| 8.0+ | ❌ | ✅ |
 
 ## Features
 
