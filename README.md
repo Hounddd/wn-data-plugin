@@ -2,7 +2,7 @@
 
 ![Winter Data](https://github.com/hounddd/wn-data-plugin/blob/main/.github/Data-plugin.png?raw=true)
 
-> [Spatie Laravel Data](https://github.com/spatie/laravel-google-calendar) wrapper for WinterCMS
+> [Spatie Laravel Data](https://github.com/spatie/laravel-data/) wrapper for WinterCMS
 
 This package enables the creation of rich data objects which can be used in various ways. Using this package you only need to describe your data once.
 
